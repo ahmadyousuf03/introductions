@@ -83,17 +83,17 @@ yourself:
 
         <section class="career">
             <h2>Reasons for Pursuing This Degree</h2>
-            <p>[Your reasons for pursuing this degree]</p>
+            <p>[Pursuing this degree because I like constantly learning]</p>
         </section>
 
         <section class="course">
             <h2>Reasons for Taking This Course</h2>
-            <p>[Your reasons for taking this course]</p>
+            <p>[Taking this course as part of requirement for degree]</p>
         </section>
 
         <section class="fun-fact">
             <h2>Fun Fact</h2>
-            <p>[A fun fact about yourself]</p>
+            <p>[Recently started baking]</p>
         </section>
     </div>
 </body>
