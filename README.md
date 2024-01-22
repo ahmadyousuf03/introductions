@@ -66,24 +66,24 @@ yourself:
 <body>
     <div class="container">
         <header class="main-info">
-            <h1>Your Name: [Your Full Name]</h1>
-            <p>Preferred Name: [Your Preferred Name]</p>
-            <p>Current/Recent Job Title: [Your Job Title]</p>
+            <h1>Your Name: [Ahmad Yousuf] </h1>
+            <p>Preferred Name: [Ahmad]</p>
+            <p>Current/Recent Job Title: [Tutor]</p>
         </header>
 
         <section class="career">
             <h2>Job Responsibilities</h2>
-            <p>[Summary of your current or most recent job responsibilities]</p>
+            <p>[Tutor kids in math and reading]</p>
         </section>
 
         <section class="hobbies">
             <h2>Hobbies and Special Interests</h2>
-            <p>[Your hobbies or special interests]</p>
+            <p>[Sports]</p>
         </section>
 
         <section class="career">
             <h2>Reasons for Pursuing This Degree</h2>
-            <p>[Your reasons for pursuing the degree]</p>
+            <p>[Your reasons for pursuing this degree]</p>
         </section>
 
         <section class="course">
